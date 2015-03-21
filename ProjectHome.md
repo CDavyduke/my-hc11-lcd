@@ -1,0 +1,1 @@
+This project uses the HC11 on the CME11A Evaluation Board by Axiom Manufacturing to write to the Optrex 20434 Liquid Crystal Display.
